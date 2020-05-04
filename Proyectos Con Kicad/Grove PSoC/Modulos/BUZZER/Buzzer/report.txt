@@ -1,0 +1,5 @@
+Información: Checking netlist symbol footprint "BZ1:/5DCA0137:Buzzer_Beeper:Buzzer_12x9.5RM7.6".
+Información: Checking netlist symbol footprint "J1:/5DCA35EB:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Información: Checking netlist symbol footprint "Q1:/5DC9E804:Package_TO_SOT_SMD:SOT-23".
+Información: Checking netlist symbol footprint "R1:/5DC9DC10:Resistor_SMD:R_2816_7142Metric".
+Aviso: Footprint of R1 changed: board footprint "Resistor_SMD:R_0201_0603Metric", netlist footprint "Resistor_SMD:R_2816_7142Metric".
